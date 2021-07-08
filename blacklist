@@ -1,0 +1,2 @@
+create blacklist hash:ip family inet hashsize 1024 maxelem 65536
+add blacklist 130.211.7.151
